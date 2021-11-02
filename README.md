@@ -12,7 +12,6 @@
 <li>Node.js</li>
 <li>Prisma</li>
 <li>Socket.io</li>
-<li></li>
 </ul>
 
 <p>Front-end </p>

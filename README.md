@@ -4,7 +4,7 @@
 :page_facing_up: Descrição 
 </h2>
   
-<p> O Podcastr é um app para ouvir podcasts sobre programação </p>
+<p> Interaja com outros participantes sobre o evento DoWhile 2021! </p>
 
 <h2>🛠 Tecnologias </h2>
 <p>Back-end </p>

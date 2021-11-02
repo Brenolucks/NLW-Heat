@@ -19,7 +19,7 @@
 <li>React.js</li>
 <li>Vite.js</li>
 <li>TypeScrpit</li>
-<li text-decoration="none">Sass</li>
+<li>Sass</li>
 </ul>
   
 
